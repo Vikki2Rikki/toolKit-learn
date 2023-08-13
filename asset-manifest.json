@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toolKit-learn/static/css/main.7acaea2f.css",
-    "main.js": "/toolKit-learn/static/js/main.e64006c2.js",
+    "main.css": "/toolKit-learn/static/css/main.b7a2a3ed.css",
+    "main.js": "/toolKit-learn/static/js/main.2b01ddfe.js",
     "index.html": "/toolKit-learn/index.html",
-    "main.7acaea2f.css.map": "/toolKit-learn/static/css/main.7acaea2f.css.map",
-    "main.e64006c2.js.map": "/toolKit-learn/static/js/main.e64006c2.js.map"
+    "main.b7a2a3ed.css.map": "/toolKit-learn/static/css/main.b7a2a3ed.css.map",
+    "main.2b01ddfe.js.map": "/toolKit-learn/static/js/main.2b01ddfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.e64006c2.js"
+    "static/css/main.b7a2a3ed.css",
+    "static/js/main.2b01ddfe.js"
   ]
 }
